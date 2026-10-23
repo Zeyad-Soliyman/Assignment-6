@@ -1,0 +1,13 @@
+1. install Git
+2. git config --global "Beishoy-Ayman-Adli"/ git config --global user.email"aymanbeshoy855@gmail.com"
+3.open terminal copy conmmands and paste
+
+4.open project in the vscode
+
+echo "# assignment-6" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Beishoy-Ayman-Adli/assignment-6.git
+git push -u origin main
